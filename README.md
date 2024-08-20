@@ -1,4 +1,4 @@
-# Cambate: video Captioning with mAMBA-TransformEr
+# Cambate: video <u>C</u>aptioning with M<u>amba</u>-<u>T</u>ransform<u>e</u>r
 
 Authors: Ng Jing Xu
 
