@@ -1,4 +1,4 @@
-# Cambate: video <u>C</u>aptioning with M<u>amba</u>-<u>T</u>ransform<u>e</u>r
+# Cambate: video \underline{C}aptioning with M\underline{amba}-\underline{T}ransform\underline{e}r
 
 Authors: Ng Jing Xu
 
