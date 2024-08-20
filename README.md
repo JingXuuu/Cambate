@@ -1,4 +1,4 @@
-# Cambate: video <ins>C</ins>aptioning with M<ins>amba</ins>-<ins>T</ins>ransform<ins>e</ins>r
+# Cambate: Video <ins>C</ins>aptioning with M<ins>amba</ins>-<ins>T</ins>ransform<ins>e</ins>r
 
 Authors: Ng Jing Xu
 
@@ -44,44 +44,20 @@ This is a project of 2024 PKU CVDL course. This project uses [Mamba](https://arx
 #### Visualization
 
 1. Use the generated link to download the video (If the video is lost, change another video index)
-
 2. Move the video to the visualization/ folder, and change the video name into 'video.mp4'
-
 3. Run `bash vis.sh`
-
 4. The video with captions are shown in `output.mp4`
-
 5. Sample results are shown in [here](https://drive.google.com/drive/folders/13sFmIZVGUYXS3KDnyWpgT5COAmrhlL86?usp=sharing)
 
+#### Results
+1. 3 sentences are generated for every 512 frames
+2. These 3 sentences split the timestamp evenly
 	
 
 ## Weights download
 
 - Download the weights of encoder and decoder [here](https://drive.google.com/drive/folders/13sFmIZVGUYXS3KDnyWpgT5COAmrhlL86?usp=sharing) (only first, last and best epoch weights are uploaded)
 - Place the weights into folder `ckpt/`
-
-#### Encoder:
-Total params: 130,640,384
-Trainable params: 130,640,384
-Non-trainable params: 0
-Total mult-adds (G): 48.01
-
-Input size (MB): 30.72
-Forward/backward pass size (MB): 16267.35
-Params size (MB): 404.32
-Estimated Total Size (MB): 16702.39
-
-
-#### Decoder:
-Total params: 115,052,113
-Trainable params: 115,052,113
-Non-trainable params: 0
-Total mult-adds (G): 18.73
-
-Input size (MB): 47.20
-Forward/backward pass size (MB): 1451.54
-Params size (MB): 384.61
-Estimated Total Size (MB): 1883.35
 
 
 
