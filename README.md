@@ -19,7 +19,7 @@ This is a project of 2024 PKU CVDL course. This project uses [Mamba](https://arx
 - Create environment with `conda env create -f environment.yml`
 - You can test whether the models are working in good condition by running `demo.py`
 
-#### Data preparation
+#### Data preparation (It is needed for inference too)
 
 - Download the C3D video features from [here](https://rochester.app.box.com/s/8znalh6y5e82oml2lr7to8s6ntab6mav/folder/137471953557) 
 - Move the downloaded raw data into folder `data/activitynet-captions`
@@ -51,46 +51,46 @@ This is a project of 2024 PKU CVDL course. This project uses [Mamba](https://arx
 
 4. The video with captions are shown in `output.mp4`
 
-5. Sample results are shown in [here](https://disk.pku.edu.cn/link/AAB9A8B8F449634A7CBF1340E648BDB7AA)
+5. Sample results are shown in [here](https://drive.google.com/drive/folders/13sFmIZVGUYXS3KDnyWpgT5COAmrhlL86?usp=sharing)
 
 	
 
 ## Weights download
 
-- Download the weights of encoder and decoder [here](https://disk.pku.edu.cn/link/AAB9A8B8F449634A7CBF1340E648BDB7AA)
+- Download the weights of encoder and decoder [here](https://drive.google.com/drive/folders/13sFmIZVGUYXS3KDnyWpgT5COAmrhlL86?usp=sharing) (only first, last and best epoch weights are uploaded)
 - Place the weights into folder `ckpt/`
 
 #### Encoder:
 
-==========================================================================================
+==========================================
 Total params: 130,640,384
 Trainable params: 130,640,384
 Non-trainable params: 0
 Total mult-adds (G): 48.01
 
-==========================================================================================
+===========================================
 Input size (MB): 30.72
 Forward/backward pass size (MB): 16267.35
 Params size (MB): 404.32
 Estimated Total Size (MB): 16702.39
 
-==========================================================================================
+============================================
 
 #### Decoder:
 
-==========================================================================================
+============================================
 Total params: 115,052,113
 Trainable params: 115,052,113
 Non-trainable params: 0
 Total mult-adds (G): 18.73
 
-==========================================================================================
+=============================================
 Input size (MB): 47.20
 Forward/backward pass size (MB): 1451.54
 Params size (MB): 384.61
 Estimated Total Size (MB): 1883.35
 
-==========================================================================================
+==============================================
 
 
 
