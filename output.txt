@@ -1,0 +1,59 @@
+Video ID: v_mj0lRelI0xw
+Video Link: https://www.youtube.com/watch?v=mj0lRelI0xw
+
+Timestamp: [ 0.         17.13502041]
+Generated Caption 1: 
+	There's a young girl dressed in a black shirt and white shirt standing in front of a band standing in front of a marching band playing the drums.
+	 A girl in front of a large group of young girl in front of people in front of people in front of a parade.
+	 They are standing in front of the parade.
+Ground truth: A large group of people are seen standing together holding instruments and some beginning to play.
+
+Timestamp: [17.13502041 34.27004082]
+Generated Caption 2: 
+	There's a woman dressed in a red shirt standing in front of a large group of people standing in front of people standing in front of people in front of people.
+	 They are standing in front of them playing the drums.
+	 They are standing in front of them.
+Ground truth: A large group of people are seen standing together holding instruments and some beginning to play.
+
+Timestamp: [34.27004082 51.40506122]
+Generated Caption 3: 
+	There's a little girl dressed in a red shirt standing in front of a band standing in front of a marching band in front of a parade.
+	 They are standing in front of the street playing the drums in front of the band.
+	 The girl in front of the street playing the drums.
+Ground truth: A large group of people are seen standing together holding instruments and some beginning to play. The drummers continue to play all together with the camera panning around their movements.
+
+Timestamp: [51.40506122 68.54008163]
+Generated Caption 4: 
+	There's a woman dressed in a red shirt standing in front of a band standing in front of a marching band.
+	 They are standing in front of the band.
+	 They are standing in front of the band.
+Ground truth: A large group of people are seen standing together holding instruments and some beginning to play. The drummers continue to play all together with the camera panning around their movements.
+
+Timestamp: [68.54008163 85.67510204]
+Generated Caption 5: 
+	A marching band plays in front of a drum set in a parade.
+	  A person in front of the band plays in front of them.
+	  The marching band plays in front of the band plays.
+Ground truth:  The drummers continue to play all together with the camera panning around their movements.
+
+Timestamp: [ 85.67510204 102.81012245]
+Generated Caption 6: 
+	A marching band plays in front of a large group of people.
+	 The marching band walk down the street.
+	 The marching band walk down the street.
+Ground truth:  The drummers continue to play all together with the camera panning around their movements.
+
+Timestamp: [102.81012245 119.94514286]
+Generated Caption 7: 
+	A marching band plays in front of a large crowd.
+	  The marching band walk down the street.
+	  The marching band walk down the street in the street.
+Ground truth:  The drummers continue to play all together with the camera panning around their movements.
+
+Timestamp: [119.94514286 131.19      ]
+Generated Caption 8: 
+	A marching band plays in front of a large group of people.
+	  A large group of people walk in front of them.
+	  The marching band plays in front of a parade.
+Ground truth:  The drummers continue to play all together with the camera panning around their movements.
+
